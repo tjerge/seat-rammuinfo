@@ -22,5 +22,5 @@
 
 return [
     'main_level' => 'Information Center',
-    'sub_level' => 'Sub Majestic Menu',
+    'sub_level' => 'Sub Information Center Menu',
 ];
