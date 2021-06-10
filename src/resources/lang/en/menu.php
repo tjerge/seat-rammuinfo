@@ -21,6 +21,6 @@
  */
 
 return [
-    'main_level' => 'Majestic Menu',
+    'main_level' => 'Information Center',
     'sub_level' => 'Sub Majestic Menu',
 ];
