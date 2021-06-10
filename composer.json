@@ -1,16 +1,16 @@
 {
-    "name": "majesticmajestic/majestic",
-    "description": "lol",
+    "name": "mrmajestic/seat-rammuinfo",
+    "description": "Info pages Windrammers.",
     "license": "GPL-3.0-or-later",
     "authors": [
         {
-            "name": "Majestic",
+            "name": "MrMajestic",
             "email": "srgdwlng@googlemail.com"
         }
     ],
     "autoload": {
         "psr-4": {
-            "Majestic\\Seat\\Majestic\\": "src/"
+            "MrMajestic\\Seat\\RammuInfo\\": "src/"
         }
     },
     "minimum-stability": "dev",
@@ -27,7 +27,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Majestic\\Seat\\Majestic\\MajesticServiceProvider"
+                "MrMajestic\\Seat\\RammuInfo\\RammuInfoServiceProvider"
             ]
         }
     }
